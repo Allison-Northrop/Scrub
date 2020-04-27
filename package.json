@@ -1,0 +1,15 @@
+{
+  "name": "scrub",
+  "version": "1.0.0",
+  "description": "scrub checkin me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "browni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
